@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5bfd79e7-c941-4ab5-b99e-ede53442d584": {
+      "ProjectGuid": "5bfd79e7-c941-4ab5-b99e-ede53442d584",
+      "DisplayName": "Primeiro Programa",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

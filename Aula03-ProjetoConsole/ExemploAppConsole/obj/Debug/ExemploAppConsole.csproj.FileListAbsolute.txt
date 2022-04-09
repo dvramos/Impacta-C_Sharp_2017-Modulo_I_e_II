@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula03-ProjetoConsole\ExemploAppConsole\bin\Debug\ExemploAppConsole.exe.config
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula03-ProjetoConsole\ExemploAppConsole\bin\Debug\ExemploAppConsole.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula03-ProjetoConsole\ExemploAppConsole\bin\Debug\ExemploAppConsole.pdb
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula03-ProjetoConsole\ExemploAppConsole\obj\Debug\ExemploAppConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula03-ProjetoConsole\ExemploAppConsole\obj\Debug\ExemploAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula03-ProjetoConsole\ExemploAppConsole\obj\Debug\ExemploAppConsole.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula03-ProjetoConsole\ExemploAppConsole\obj\Debug\ExemploAppConsole.pdb

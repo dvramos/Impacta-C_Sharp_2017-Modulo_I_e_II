@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Impacta\C# 2017 - Módulo I\Primeiro Programa\Primeiro Programa\bin\Debug\Primeiro Programa.exe.config
+C:\Users\user\Desktop\Impacta\C# 2017 - Módulo I\Primeiro Programa\Primeiro Programa\bin\Debug\Primeiro Programa.exe
+C:\Users\user\Desktop\Impacta\C# 2017 - Módulo I\Primeiro Programa\Primeiro Programa\bin\Debug\Primeiro Programa.pdb
+C:\Users\user\Desktop\Impacta\C# 2017 - Módulo I\Primeiro Programa\Primeiro Programa\obj\Debug\Primeiro Programa.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Impacta\C# 2017 - Módulo I\Primeiro Programa\Primeiro Programa\obj\Debug\Primeiro Programa.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Impacta\C# 2017 - Módulo I\Primeiro Programa\Primeiro Programa\obj\Debug\Primeiro Programa.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Impacta\C# 2017 - Módulo I\Primeiro Programa\Primeiro Programa\obj\Debug\Primeiro Programa.exe
+C:\Users\user\Desktop\Impacta\C# 2017 - Módulo I\Primeiro Programa\Primeiro Programa\obj\Debug\Primeiro Programa.pdb
