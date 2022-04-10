@@ -14,7 +14,7 @@ namespace Atividade01
         {
             //Somar dois números
             int n1, n2, resultado;
-
+            
             //Obtendo os valores
             Console.Write("Digite o primeiro número: ");
             n1 = Convert.ToInt32(Console.ReadLine());

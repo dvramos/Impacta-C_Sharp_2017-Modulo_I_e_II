@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "740b11d5-f3de-4c6f-9a0b-f4feccec8e5b": {
+      "ProjectGuid": "740b11d5-f3de-4c6f-9a0b-f4feccec8e5b",
+      "DisplayName": "ObtendoInformacoesDoUsuario",
+      "ColorIndex": 0
+    },
+    "29d25cf0-748c-4501-a1a4-bb6bc2e555d0": {
+      "ProjectGuid": "29d25cf0-748c-4501-a1a4-bb6bc2e555d0",
+      "DisplayName": "Atividade01",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
