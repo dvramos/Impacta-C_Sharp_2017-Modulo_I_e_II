@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3edca53b-313a-40f2-bc0f-c1f3080013ef": {
+      "ProjectGuid": "3edca53b-313a-40f2-bc0f-c1f3080013ef",
+      "DisplayName": "ExemploAppConsole",
+      "ColorIndex": 0
+    },
+    "30d10fa9-290a-408f-94f2-22c2ff75b23d": {
+      "ProjectGuid": "30d10fa9-290a-408f-94f2-22c2ff75b23d",
+      "DisplayName": "Atividade01",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
