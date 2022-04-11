@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4e6a4b37-6fc1-4a26-b5c9-8abf044d4e43": {
+      "ProjectGuid": "4e6a4b37-6fc1-4a26-b5c9-8abf044d4e43",
+      "DisplayName": "TiposPrimitivos",
+      "ColorIndex": 0
+    },
+    "19f99819-128e-4d72-9eac-4a550f4408e5": {
+      "ProjectGuid": "19f99819-128e-4d72-9eac-4a550f4408e5",
+      "DisplayName": "Atividade01",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

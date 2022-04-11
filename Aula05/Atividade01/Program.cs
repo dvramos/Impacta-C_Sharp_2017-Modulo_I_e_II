@@ -35,6 +35,8 @@ namespace Atividade01
             Console.Write("A compra ficou em {0} parcelas de {1:c}", parcelas, pagamento);
             Console.ReadLine();
 
+            
+
         }
     }
 }
