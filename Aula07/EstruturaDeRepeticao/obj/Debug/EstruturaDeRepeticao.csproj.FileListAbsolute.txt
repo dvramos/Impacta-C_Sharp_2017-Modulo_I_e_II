@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula07\EstruturaDeRepeticao\bin\Debug\EstruturaDeRepeticao.exe.config
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula07\EstruturaDeRepeticao\bin\Debug\EstruturaDeRepeticao.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula07\EstruturaDeRepeticao\bin\Debug\EstruturaDeRepeticao.pdb
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula07\EstruturaDeRepeticao\obj\Debug\EstruturaDeRepeticao.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula07\EstruturaDeRepeticao\obj\Debug\EstruturaDeRepeticao.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula07\EstruturaDeRepeticao\obj\Debug\EstruturaDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula07\EstruturaDeRepeticao\obj\Debug\EstruturaDeRepeticao.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula07\EstruturaDeRepeticao\obj\Debug\EstruturaDeRepeticao.pdb

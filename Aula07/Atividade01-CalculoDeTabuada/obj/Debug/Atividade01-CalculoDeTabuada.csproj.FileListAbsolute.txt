@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula07\Atividade01-CalculoDeTabuada\bin\Debug\Atividade01-CalculoDeTabuada.exe.config
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula07\Atividade01-CalculoDeTabuada\bin\Debug\Atividade01-CalculoDeTabuada.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula07\Atividade01-CalculoDeTabuada\bin\Debug\Atividade01-CalculoDeTabuada.pdb
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula07\Atividade01-CalculoDeTabuada\obj\Debug\Atividade01-CalculoDeTabuada.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula07\Atividade01-CalculoDeTabuada\obj\Debug\Atividade01-CalculoDeTabuada.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula07\Atividade01-CalculoDeTabuada\obj\Debug\Atividade01-CalculoDeTabuada.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula07\Atividade01-CalculoDeTabuada\obj\Debug\Atividade01-CalculoDeTabuada.pdb
