@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\Atividade02\bin\Debug\Atividade02.exe.config
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\Atividade02\bin\Debug\Atividade02.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\Atividade02\bin\Debug\Atividade02.pdb
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\Atividade02\obj\Debug\Atividade02.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\Atividade02\obj\Debug\Atividade02.Form1.resources
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\Atividade02\obj\Debug\Atividade02.Properties.Resources.resources
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\Atividade02\obj\Debug\Atividade02.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\Atividade02\obj\Debug\Atividade02.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\Atividade02\obj\Debug\Atividade02.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\Atividade02\obj\Debug\Atividade02.pdb

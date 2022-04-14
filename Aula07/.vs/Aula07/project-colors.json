@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b85b0de9-dda4-4891-a020-d6c2e3d42e8c": {
+      "ProjectGuid": "b85b0de9-dda4-4891-a020-d6c2e3d42e8c",
+      "DisplayName": "EstruturaDeRepeticao",
+      "ColorIndex": 0
+    },
+    "307ac870-738e-428e-80bb-fedeadba1f07": {
+      "ProjectGuid": "307ac870-738e-428e-80bb-fedeadba1f07",
+      "DisplayName": "Atividade01-CalculoDeTabuada",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

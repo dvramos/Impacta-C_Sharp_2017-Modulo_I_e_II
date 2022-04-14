@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\AplicacoesDesktop\bin\Debug\AplicacoesDesktop.exe.config
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\AplicacoesDesktop\bin\Debug\AplicacoesDesktop.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\AplicacoesDesktop\bin\Debug\AplicacoesDesktop.pdb
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\AplicacoesDesktop\obj\Debug\AplicacoesDesktop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\AplicacoesDesktop\obj\Debug\AplicacoesDesktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\AplicacoesDesktop\obj\Debug\AplicacoesDesktop.Form1.resources
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\AplicacoesDesktop\obj\Debug\AplicacoesDesktop.Properties.Resources.resources
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\AplicacoesDesktop\obj\Debug\AplicacoesDesktop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\AplicacoesDesktop\obj\Debug\AplicacoesDesktop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\AplicacoesDesktop\obj\Debug\AplicacoesDesktop.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula08\AplicacoesDesktop\obj\Debug\AplicacoesDesktop.pdb
