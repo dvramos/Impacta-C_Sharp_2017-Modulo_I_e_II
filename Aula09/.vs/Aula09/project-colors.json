@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "abb7b559-5ecd-4901-b5ee-19923e6753b7": {
+      "ProjectGuid": "abb7b559-5ecd-4901-b5ee-19923e6753b7",
+      "DisplayName": "Arrays",
+      "ColorIndex": 0
+    },
+    "2f913fa0-47ae-4e15-984b-5f81acde8927": {
+      "ProjectGuid": "2f913fa0-47ae-4e15-984b-5f81acde8927",
+      "DisplayName": "Colecoes",
+      "ColorIndex": 1
+    },
+    "6a49a01d-c580-4581-96e1-e0ef21210c9f": {
+      "ProjectGuid": "6a49a01d-c580-4581-96e1-e0ef21210c9f",
+      "DisplayName": "Atividade01",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
