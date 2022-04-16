@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c75458c7-f014-4115-80d8-d876aae9b38f": {
+      "ProjectGuid": "c75458c7-f014-4115-80d8-d876aae9b38f",
+      "DisplayName": "AplicacoesDesktop",
+      "ColorIndex": 0
+    },
+    "9288150a-3b45-480f-b548-36a32775f831": {
+      "ProjectGuid": "9288150a-3b45-480f-b548-36a32775f831",
+      "DisplayName": "Atividade01",
+      "ColorIndex": 1
+    },
+    "1b8f5f69-40b3-4b49-a22d-52e602aae278": {
+      "ProjectGuid": "1b8f5f69-40b3-4b49-a22d-52e602aae278",
+      "DisplayName": "Atividade02",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
