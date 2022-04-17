@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\POO-Conceitos\bin\Debug\POO-Conceitos.exe.config
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\POO-Conceitos\bin\Debug\POO-Conceitos.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\POO-Conceitos\bin\Debug\POO-Conceitos.pdb
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\POO-Conceitos\obj\Debug\POO-Conceitos.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\POO-Conceitos\obj\Debug\POO-Conceitos.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\POO-Conceitos\obj\Debug\POO-Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\POO-Conceitos\obj\Debug\POO-Conceitos.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\POO-Conceitos\obj\Debug\POO-Conceitos.pdb
