@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula11\TiposDeMetodos\bin\Debug\TiposDeMetodos.exe.config
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula11\TiposDeMetodos\bin\Debug\TiposDeMetodos.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula11\TiposDeMetodos\bin\Debug\TiposDeMetodos.pdb
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula11\TiposDeMetodos\obj\Debug\TiposDeMetodos.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula11\TiposDeMetodos\obj\Debug\TiposDeMetodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula11\TiposDeMetodos\obj\Debug\TiposDeMetodos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula11\TiposDeMetodos\obj\Debug\TiposDeMetodos.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula11\TiposDeMetodos\obj\Debug\TiposDeMetodos.pdb

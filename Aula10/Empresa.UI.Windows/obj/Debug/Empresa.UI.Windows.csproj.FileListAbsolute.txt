@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\Empresa.UI.Windows\bin\Debug\Empresa.UI.Windows.exe.config
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\Empresa.UI.Windows\bin\Debug\Empresa.UI.Windows.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\Empresa.UI.Windows\bin\Debug\Empresa.UI.Windows.pdb
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\Empresa.UI.Windows\obj\Debug\Empresa.UI.Windows.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\Empresa.UI.Windows\obj\Debug\Empresa.UI.Windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\Empresa.UI.Windows\obj\Debug\Empresa.UI.Windows.ClienteIncluirForm.resources
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\Empresa.UI.Windows\obj\Debug\Empresa.UI.Windows.Form1.resources
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\Empresa.UI.Windows\obj\Debug\Empresa.UI.Windows.Properties.Resources.resources
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\Empresa.UI.Windows\obj\Debug\Empresa.UI.Windows.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\Empresa.UI.Windows\obj\Debug\Empresa.UI.Windows.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\Empresa.UI.Windows\obj\Debug\Empresa.UI.Windows.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula10\Empresa.UI.Windows\obj\Debug\Empresa.UI.Windows.pdb

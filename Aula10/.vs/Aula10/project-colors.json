@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6beb3077-2de1-49fd-819d-826910e5c07a": {
+      "ProjectGuid": "6beb3077-2de1-49fd-819d-826910e5c07a",
+      "DisplayName": "POO-Conceitos",
+      "ColorIndex": 0
+    },
+    "1689e7ad-cd62-4c93-88f0-19dc9668e62a": {
+      "ProjectGuid": "1689e7ad-cd62-4c93-88f0-19dc9668e62a",
+      "DisplayName": "Empresa.Models",
+      "ColorIndex": 1
+    },
+    "610f1690-0504-4913-b1a9-6ffad24c6986": {
+      "ProjectGuid": "610f1690-0504-4913-b1a9-6ffad24c6986",
+      "DisplayName": "Empresa.UI.Windows",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
