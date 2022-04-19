@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula12\ManiulacaoDeTexto\bin\Debug\ManiulacaoDeTexto.exe.config
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula12\ManiulacaoDeTexto\bin\Debug\ManiulacaoDeTexto.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula12\ManiulacaoDeTexto\bin\Debug\ManiulacaoDeTexto.pdb
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula12\ManiulacaoDeTexto\obj\Debug\ManiulacaoDeTexto.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula12\ManiulacaoDeTexto\obj\Debug\ManiulacaoDeTexto.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula12\ManiulacaoDeTexto\obj\Debug\ManiulacaoDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula12\ManiulacaoDeTexto\obj\Debug\ManiulacaoDeTexto.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula12\ManiulacaoDeTexto\obj\Debug\ManiulacaoDeTexto.pdb
