@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula13_Atividade\Empresa.DB\obj\Debug\net6.0\Empresa.DB.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula13_Atividade\Empresa.DB\obj\Debug\net6.0\Empresa.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula13_Atividade\Empresa.DB\obj\Debug\net6.0\Empresa.DB.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula13_Atividade\Empresa.DB\obj\Debug\net6.0\Empresa.DB.AssemblyInfo.cs
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula13_Atividade\Empresa.DB\obj\Debug\net6.0\Empresa.DB.csproj.CoreCompileInputs.cache

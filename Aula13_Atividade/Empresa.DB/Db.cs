@@ -9,10 +9,10 @@ namespace Empresa.DB
     //Helper para acesso de dados
     public static class Db
     {
-        public string Conexao
+        public static string Conexao
         { get
             {
-                return @"Data Source=(LocalDB)\MSSQLLocalDB;Initial Catalog=EmpresaDB;Integrated Security=True;Pooling=False";
+                return @"Data Source=(LocalDB)\MSSQLLocalDB;Initial Catalog=EmpresaDB;Integrated Security=True;";
             }
         }
     }

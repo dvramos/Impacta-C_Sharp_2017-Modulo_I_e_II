@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula13_Atividade\Empresa\obj\Debug\Empresa.Models.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula13_Atividade\Empresa\obj\Debug\Empresa.Models.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula13_Atividade\Empresa\obj\Debug\Empresa.Models.csproj.CoreCompileInputs.cache
