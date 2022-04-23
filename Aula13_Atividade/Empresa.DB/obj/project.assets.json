@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Empresa.Models/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Empresa.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Empresa.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Empresa.Models/1.0.0": {
+      "type": "project",
+      "path": "../Empresa/Empresa.Models.csproj",
+      "msbuildProject": "../Empresa/Empresa.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Empresa.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Impacta\\Impacta-C_Sharp_2017-Modulo_I_e_II\\Aula13_Atividade\\Empresa.DB\\Empresa.DB.csproj",
+      "projectName": "Empresa.DB",
+      "projectPath": "C:\\Users\\user\\Desktop\\Impacta\\Impacta-C_Sharp_2017-Modulo_I_e_II\\Aula13_Atividade\\Empresa.DB\\Empresa.DB.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Impacta\\Impacta-C_Sharp_2017-Modulo_I_e_II\\Aula13_Atividade\\Empresa.DB\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\user\\Desktop\\Impacta\\Impacta-C_Sharp_2017-Modulo_I_e_II\\Aula13_Atividade\\Empresa\\Empresa.Models.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Impacta\\Impacta-C_Sharp_2017-Modulo_I_e_II\\Aula13_Atividade\\Empresa\\Empresa.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

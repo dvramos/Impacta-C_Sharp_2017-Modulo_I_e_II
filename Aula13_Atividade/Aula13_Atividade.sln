@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empresa.Models", "Empresa\E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empresa.UI.Windows", "Empresa.UI.Windows\Empresa.UI.Windows.csproj", "{9B9E4F3E-C8B6-4C37-8003-78FF7FD0F7E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empresa.DB", "Empresa.DB\Empresa.DB.csproj", "{4ED43508-F80E-486A-B4CF-A829B871A817}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9B9E4F3E-C8B6-4C37-8003-78FF7FD0F7E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B9E4F3E-C8B6-4C37-8003-78FF7FD0F7E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B9E4F3E-C8B6-4C37-8003-78FF7FD0F7E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED43508-F80E-486A-B4CF-A829B871A817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED43508-F80E-486A-B4CF-A829B871A817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED43508-F80E-486A-B4CF-A829B871A817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED43508-F80E-486A-B4CF-A829B871A817}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula16\ADO_NET\bin\Debug\ADO_NET.exe.config
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula16\ADO_NET\bin\Debug\ADO_NET.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula16\ADO_NET\bin\Debug\ADO_NET.pdb
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula16\ADO_NET\obj\Debug\ADO_NET.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula16\ADO_NET\obj\Debug\ADO_NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula16\ADO_NET\obj\Debug\ADO_NET.Form1.resources
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula16\ADO_NET\obj\Debug\ADO_NET.Properties.Resources.resources
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula16\ADO_NET\obj\Debug\ADO_NET.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula16\ADO_NET\obj\Debug\ADO_NET.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula16\ADO_NET\obj\Debug\ADO_NET.exe
+C:\Users\user\Desktop\Impacta\Impacta-C_Sharp_2017-Modulo_I_e_II\Aula16\ADO_NET\obj\Debug\ADO_NET.pdb
